@@ -1,0 +1,62 @@
+
+body {
+  margin: 0 auto;
+   background-size: cover;
+  background-image: url('https://excellencetravels.com/wp-content/uploads/2019/11/uk-flag.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% contain;
+
+  
+}
+header p {
+    padding-bottom: 12px;
+    margin-bottom: 50px;
+  }
+div img {
+margin: 0 auto;
+justify-content: center;
+align-items: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    align-items: center;
+     text-align: center;
+    object-fit: contain;
+     border: solid white 3px;
+}
+h1 {
+  padding-top: 30px;
+  color: white;
+  font-size: 3em;
+}
+h1, header p{
+  text-align: center;
+  font-family: 'Young Serif', serif;
+  color: white;
+}
+header {
+  background-color: rgba(100, 150, 150, 0.723);
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+/***? padding***/
+figcaption {
+  padding-right:45px;
+  text-align: right;
+}
+div p{
+   display: flex;
+   max-width: 80%;
+   margin: auto;
+   padding: 15px;
+  text-align: left;
+  background-color: rgb(255 255 255 / 84%);
+}
+
+
